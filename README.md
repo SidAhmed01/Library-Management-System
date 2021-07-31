@@ -7,7 +7,7 @@
 
 Install Python 3.9 or above -> https://www.python.org/                   
 Install Pip -> python get-pip.py               
-
+Install vertuelenv 
 pip install Django                               
 pip install django-admin-thumbnails                  
 pip install django-ckeditor              
