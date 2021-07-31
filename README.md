@@ -1,4 +1,6 @@
-#   How To Us this App      
+#   How To Us this App   
+
+###  Admin Panel accesse           
   username = sidou          
   password = sidou12345
 
