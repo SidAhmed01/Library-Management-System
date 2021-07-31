@@ -3,15 +3,15 @@
   password = sidou12345
 
 
-Install Python 3.9 or above -> https://www.python.org/
-Install Pip -> python get-pip.py
+Install Python 3.9 or above -> https://www.python.org/                   
+Install Pip -> python get-pip.py               
 
-pip install Django
-pip install django-admin-thumbnails
-pip install django-ckeditor
-pip install django-currencies
-pip install django-mptt
-pip install Pillow
+pip install Django                               
+pip install django-admin-thumbnails                  
+pip install django-ckeditor              
+pip install django-currencies                
+pip install django-mptt                
+pip install Pillow               
 
 
 
